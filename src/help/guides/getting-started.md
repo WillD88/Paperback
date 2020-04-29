@@ -19,7 +19,7 @@ lang: en-US
 :::
 
 ::: warning Warning
-This requires iOS 13.3+ or iPadOS 13.4+, the app will CRASH otherwise. Paperback is NOT designed for any iOS below.
+Paperback was built for iOS and iPadOS 13.4+, but may work with iOS 13.3 using Jailbreak at the cost of being unstable.
 :::
 
 ### AltStore instructions for Mac
